@@ -1,5 +1,5 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=AchmadZahrulAZ.AchmadZahrulAZ)
-### Hi! 👋 I'm Arul 
+## Hi! 👋 I'm Arul 
 
 - 📫 How to reach me: https://www.linkedin.com/in/achmadzahrulalizadan/
 - 🌱 I’m currently learning Web Development
