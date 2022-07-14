@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 - 📫 How to reach me: https://www.linkedin.com/in/achmadzahrulalizadan/
-- 🌱 I’m currently learning Full Stack Web Development
-- ⚡ Fun fact: Sometimes in spare time, i play games like Genshin Impact and Yugioh Master Duel
+- 🌱 I’m currently learning Web Development
+
 
 
 <p align="left">
